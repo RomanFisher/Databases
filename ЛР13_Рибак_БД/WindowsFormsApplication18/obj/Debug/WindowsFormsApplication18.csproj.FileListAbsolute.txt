@@ -1,0 +1,49 @@
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe.config
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csprojResolveAssemblyReference.cache
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form1.resources
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Properties.Resources.resources
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.GenerateResource.Cache
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.exe
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.pdb
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form2.resources
+D:\С#\OOp1\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form3.resources
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe.config
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\MySql.Data.dll
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\Google.Protobuf.dll
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\ZstdNet.dll
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\System.Memory.dll
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\System.Buffers.dll
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\MySql.Data.xml
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csprojAssemblyReference.cache
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form1.resources
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form2.resources
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form3.resources
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Properties.Resources.resources
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.GenerateResource.cache
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.CoreCompileInputs.cache
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.CopyComplete
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.exe
+C:\Users\GG NE BYDET\Desktop\КОЛЕДЖ\бд\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.pdb
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe.config
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\bin\Debug\System.Memory.dll
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form1.resources
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form2.resources
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form3.resources
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Properties.Resources.resources
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.GenerateResource.cache
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.CoreCompileInputs.cache
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.CopyComplete
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.exe
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.pdb
+C:\Users\Roma\Desktop\ЛБ 13 Олійник О. О\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.AssemblyReference.cache
